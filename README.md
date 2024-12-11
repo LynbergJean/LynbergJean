@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @LynbergJean
-- 👀 I’m interested in frontend and backend development, I am experienced with C, C++, javascript; and node.js.
-- 🌱 I’m currently learning 
+- 👀 I’m interested in fullstack development, I am experienced with C, C++, javascript; and node.js.
+- 🌱 I’m currently learning fullstack development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 reach me through my email at lynbergj68@usf.edu
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: i play the drums and the keyboard
 
 - 
 <!---
