@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack development, I am experienced with C, C++, javascript; and node.js.
 - 🌱 I’m currently learning fullstack development.
 - 💞️ I’m looking to collaborate on ...
-- 📫 reach me through my email at lynbergj68@usf.edu
+- 📫 reach me through my email at lynbergj55@usf.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i play the drums and the keyboard
 
