@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Jean Lynberg
 
-Welcome to my GitHub! 🎉 I’m a **C++** enthusiast, aspiring **Software Engineer**, and someone who loves creating innovative solutions. Below are some of the projects I’m working on.
+Welcome to my GitHub! 🎉 I love coding in **C/C++** and Java. I am an aspiring **Software Engineer**, and someone who loves creating innovative solutions. Below are some of the projects I’m working on.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
