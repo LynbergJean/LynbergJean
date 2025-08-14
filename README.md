@@ -1,13 +1,13 @@
 # Hey there! 👋 I'm Jean Lynberg
 
-Welcome to my GitHub! 🎉 I love coding in **C/C++** Python and Java. I am an aspiring **Software Engineer**/**Machine Learning Engineer**, and someone who loves creating innovative solutions. Below are some of the projects I’m working on.
+Welcome to my GitHub! 🎉 I love coding in **C/C++** Python, Java and JavaScript. I am an aspiring **Software Engineer**/**Machine Learning Engineer**, and someone who loves creating innovative solutions. Below are some of the projects I’m working on.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 About Me
 
 - 💼 **Current Role:** Aspiring Software Engineer
-- 🎓 **Learning:** C++ Development, Algorithms, Web Development
+- 🎓 **Learning:** Algorithms, Web Development and DevOps
 - 🌱 **Interests:** Building scalable systems, problem-solving, and exploring the cloud
 - 💬 **Fun Fact:** Fitness and coding are my passions 🏋️‍♂️ ⚽
 
