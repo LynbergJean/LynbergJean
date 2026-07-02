@@ -1,95 +1,53 @@
-# Hey there! 👋 I'm Jean Lynberg
+# Hi there! I'm Jean Lynberg 👋
 
-Welcome to my GitHub! 🎉 I love coding in **C/C++** Python, Java and JavaScript. I am an aspiring **Software Engineer**/**Machine Learning Engineer**, and someone who loves creating innovative solutions. Below are some of the projects I’m working on.
+I am a passionate Software Engineer and Cloud Enthusiast with a focus on building scalable, efficient, and user-centric applications. With a background in Computer Science and hands-on experience in cloud technologies and engineering internships, I strive to bridge the gap between complex problems and innovative solutions.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🚀 About Me
-
-- 💼 **Current Role:** Aspiring Software Engineer
-- 🎓 **Learning:** Algorithms, Web Development and DevOps
-- 🌱 **Interests:** Building scalable systems, problem-solving, and exploring the cloud
-- 💬 **Fun Fact:** Fitness and coding are my passions 🏋️‍♂️ ⚽
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🌟 **AWS Cloud Practitioner Certification**
-
-As an **AWS Cloud Practitioner**, I designed an AWS-hosted application architecture focused on high availability, scalability, and fault tolerance. Here’s how I structured the infrastructure:
-
-### **Project: Hosting an Application on AWS Cloud**
-
-- **Static Content**: 
-  - Used **Amazon S3** for hosting static assets (HTML, CSS, JS).
-  - Linked **S3** to **S3 Glacier** for backup in another Availability Zone (AZ) for reliability.
-  - **Amazon CloudFront** for low-latency content delivery globally.
-
-- **Virtual Private Cloud (VPC)**: 
-  - Created a **VPC** to isolate the infrastructure.
-  - Configured **Private Subnets** for databases and backend services.
-  - Created **Public Subnets** for EC2 instances and used **Internet Gateway** for internet access.
-  - Split infrastructure across 2 Availability Zones for redundancy.
-
-- **Security Groups**: 
-  - Added **Security Groups** for each subnet to control access and enhance security.
-
-- **High Availability & Scalability**: 
-  - Enabled **Auto Scaling** for EC2 instances.
-  - Ensured every service has a backup in another AZ for fault tolerance.
-
-- **Monitoring & Alerts**: 
-  - Used **Amazon CloudWatch** for monitoring, set up alarms, and integrated **Amazon SNS** for failure notifications.
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## 🔧 **Machine Learning Load Balancer (C & Python)**
-
-This project features a **Load Balancer** that intelligently distributes traffic using machine learning to predict server load and performance. Designed with **AWS** redundancy, the system ensures cost optimization and optimal performance.
-
-### **Key Features**:
-- **High Performance**: Developed in **C** for low-latency and efficient socket handling.
-- **Machine Learning Integration**: A **Python-based ML model** predicts server load and assigns dynamic weights.
-- **Dynamic Scalability**: Adapts to real-time changes in server conditions.
-- **Customizable Metrics**: Supports metrics such as CPU usage, memory utilization, and latency for load predictions.
-
-### **Technologies Used**:
-- **C**: For socket programming and multithreading (pthread).
-- **Python**: For machine learning (scikit-learn, joblib).
-- **Communication Tools**: Python-C API for integration.
-
-### **Possible Use Cases**:
-- **Traffic Allocation**: Distributes traffic dynamically based on load predictions.
-- **Server Readiness Score**: Uses ML predictions to evaluate the readiness of servers.
-
-### **Future Enhancements**:
-- Multi-cloud integration (AWS, Azure, Google Cloud).
-- Real-time dashboard for visualizing server loads and traffic patterns.
+## 🔗 Connect with Me
+- **LinkedIn:** [LinkedIn Profile]
+- **Portfolio:** [Portfolio Website]
+- **Email:** [Contact Email]
 
 ---
 
-## 🔧 Technologies & Tools I Use
+## 🎓 Education
+- **University of South Florida (USF)** | B.S. in Computer Science
+- **AWS Cloud Institute** | Cloud Computing Certification Program
 
-- **Languages**: C++, Python, JavaScript
-- **Cloud Services**: AWS (S3, EC2, Lambda, CloudFront, CloudWatch)
-- **Tools**: Git, GitHub, Visual Studio Code, Linux
-- **Frameworks**: Object-Oriented Programming, Data Structures, Algorithms
-
----
-
-## 🔥 Current Projects
-
-Here’s a sneak peek at some of my active projects:
-
-### 📝 **To-Do List Project (C++)**
-A task management system built using C++ that features adding tasks, tracking subtasks, and sorting by priority. [Check it out!](https://github.com/LynbergJean/To_Do_List)
-
-### 🎮 **Hangman Game (Python)**
-Collaborating with the Game Dev Club to create a simple Hangman game in Python. [View Repo](https://github.com/LynbergJean/Hangman)
+## 📜 Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **AWS Certified Cloud Practitioner**
 
 ---
 
+## 🛠️ Technical Skills
+- **Languages:** Python, Java, C/C++, JavaScript, SQL
+- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS), Docker, Kubernetes, CI/CD Pipelines
+- **Frameworks & Libraries:** React.js, Node.js, Flask, Spring Boot
+- **Tools:** Git, JIRA, Terraform, Postman
 
 ---
 
-Thank you for stopping by! 🚀
+## 💼 Professional Experience
+### **NASA L'SPACE CDH Engineer Intern** | *Mission Concept Academy*
+- Collaborated in a multi-disciplinary team to design a Command and Data Handling (CDH) system for a lunar rover mission.
+- Developed software protocols for data transmission and sensor integration, ensuring high reliability in simulated extreme environments.
+- Utilized systems engineering principles to meet stringent NASA mission requirements and deadlines.
 
+---
+
+## 🚀 Key Projects
+
+### 🏋️ **FitFindr**
+A full-stack fitness application that connects users with local gyms and personal trainers. Built using React, Node.js, and MongoDB.
+
+### 📚 **The Unofficial Guide**
+A community-driven platform for university students to share resources and reviews, leveraging AWS S3 for storage.
+
+### ⚙️ **Distributed Job Queue Platform**
+A high-performance system for managing asynchronous tasks across multiple nodes using Python and Redis.
+
+### 👥 **Employee Management System**
+A streamlined tool for HR departments to manage employee records and payroll using Java Spring Boot and PostgreSQL.
+
+---
+*“Coding the future, one commit at a time.”*
