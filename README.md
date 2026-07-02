@@ -35,19 +35,5 @@ I am a passionate Software Engineer and Cloud Enthusiast with a focus on buildin
 
 ---
 
-## 🚀 Key Projects
-
-### 🏋️ **FitFindr**
-A full-stack fitness application that connects users with local gyms and personal trainers. Built using React, Node.js, and MongoDB.
-
-### 📚 **The Unofficial Guide**
-A community-driven platform for university students to share resources and reviews, leveraging AWS S3 for storage.
-
-### ⚙️ **Distributed Job Queue Platform**
-A high-performance system for managing asynchronous tasks across multiple nodes using Python and Redis.
-
-### 👥 **Employee Management System**
-A streamlined tool for HR departments to manage employee records and payroll using Java Spring Boot and PostgreSQL.
-
 ---
 *“Coding the future, one commit at a time.”*
